@@ -1,0 +1,22 @@
+Gopath subdurectiry name go in user home directory 
+
+
+lecial elemts 
+--semicolon ";"
+it helps to put semicolon and remove it
+
+-------- types of go lang----------
+case insensitive ; almost
+variavle type should be known in advance
+every thing is a type
+exaple 
+String
+Bool
+Interger  : -> uint8 uin64 int8 int64 uintptr
+aliase are involed too
+Floating :-> float32 float64
+complex
+
+
+ 
+

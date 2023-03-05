@@ -1,0 +1,28 @@
+Compiled...
+
+go tool can run file directly, without VM
+
+System app to web app-Cloud
+
+
+--------  dont bring baggage -------
+like c++, java, pascal
+it is not a object oriented language 
+
+
+----- missing -------
+no try catch
+
+
+---- home page --- 
+
+your are not allowed to declar varible := in this Style
+
+
+----25 notes--------
+thered fixed stack -1 MB in os 
+
+gorutine s flexible stack 2kb
+
+----go rutines----
+do not communicate by sharing memory; insted share memory by commmunication
